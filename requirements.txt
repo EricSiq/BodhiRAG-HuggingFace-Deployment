@@ -1,0 +1,13 @@
+gradio>=4.0.0
+neo4j>=5.0.0
+chromadb==0.4.22
+sentence-transformers>=2.2.0
+pydantic>=2.6.0,<3.0.0
+python-dotenv>=1.0.0
+langchain==0.0.352
+langchain-community==0.0.15
+torch>=2.0.0
+numpy>=1.21.0
+pandas>=1.5.0
+beautifulsoup4>=4.12.0
+requests>=2.31.0
